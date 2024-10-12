@@ -1,7 +1,7 @@
-Name: John Castell
-Age: 35
-Birthdate: Aug 12 1987
-Profession: Excecutive Director
-Passport ID: 81F4359CD
-Phone Number: 09236484501
-SSS ID: 0244256775693
+Name: Pepper
+Age: 6 months
+Sex: Male
+Likes: Chewing cables, specifically brand new chargers
+Dislikes: Strangers
+Phone No: None, because can't charge phone
+SSS No: (55)-555-5555-55
